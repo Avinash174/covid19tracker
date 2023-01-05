@@ -1,6 +1,6 @@
 # covid19tracker
 
-A New Flutter Covid-19 Tracker Project.
+A New Flutter App For Covid-19 Tracker.
 
 ## Getting Started
 
